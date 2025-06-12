@@ -365,6 +365,170 @@ exports[`BuildQuote Component render matches snapshot 1`] = `
                             >
                               Build Quote Page Placeholder
                             </Text>
+                            <View
+                              style={{}}
+                            >
+                              <DepositTextField
+                                label="Enter amount"
+                                onChangeText={[Function]}
+                                value="100"
+                              />
+                            </View>
+                            <View
+                              style={{}}
+                            >
+                              <Text
+                                accessibilityRole="text"
+                                style={
+                                  {
+                                    "color": "#121314",
+                                    "fontFamily": "CentraNo1-Book",
+                                    "fontSize": 16,
+                                    "fontWeight": "400",
+                                    "letterSpacing": 0,
+                                    "lineHeight": 24,
+                                  }
+                                }
+                              >
+                                Quote Details
+                              </Text>
+                              <View
+                                style={{}}
+                              >
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  Payment Method:
+                                </Text>
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  CREDIT DEBIT_CARD
+                                </Text>
+                              </View>
+                              <View
+                                style={{}}
+                              >
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  Crypto Currency:
+                                </Text>
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  USDC
+                                </Text>
+                              </View>
+                              <View
+                                style={{}}
+                              >
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  Fiat Currency:
+                                </Text>
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  USD
+                                </Text>
+                              </View>
+                              <View
+                                style={{}}
+                              >
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  Network:
+                                </Text>
+                                <Text
+                                  accessibilityRole="text"
+                                  style={
+                                    {
+                                      "color": "#121314",
+                                      "fontFamily": "CentraNo1-Book",
+                                      "fontSize": 16,
+                                      "fontWeight": "400",
+                                      "letterSpacing": 0,
+                                      "lineHeight": 24,
+                                    }
+                                  }
+                                >
+                                  Ethereum
+                                </Text>
+                              </View>
+                            </View>
                           </View>
                         </View>
                         <View>
